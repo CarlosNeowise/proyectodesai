@@ -1,0 +1,4 @@
+#Ignora la carpeta .idea
+.idea
+#Agregaremos las carpetas (target) para no incluir en el versionado
+target/
