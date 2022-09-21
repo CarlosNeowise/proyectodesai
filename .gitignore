@@ -2,3 +2,8 @@
 .idea
 #Agregaremos las carpetas (target) para no incluir en el versionado
 target/
+
+# 1 : Git status : para ver cambios nuevos
+# 2 : Git add . : para agregar todos los cambios
+# 3 : Git commit -m "mensaje" : para agregar un mensaje
+# 4 : Git push : para subir los cambios al repositorio
